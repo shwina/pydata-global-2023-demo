@@ -1,0 +1,6 @@
+*.parquet
+/.ipynb_checkpoints/
+/.langchain.db
+/__pycache__/
+/cufile.log
+*~
